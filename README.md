@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **creating a legal document simplifier tool that outperforms ChatGPT-4 in benchmarks LegalBench and LexGLUE.**
 
-- 🌱 I’m currently learning **Hugging Face Transformers, JAX / Flax, Pytorch/Tensorflow RAGAS for RAG eval**
+- 🌱 I’m currently learning **Hugging Face Transformers, JAX / Flax, Pytorch/Tensorflow, RAGAS for RAG eval**
 
 <p align="left">
 </p>
