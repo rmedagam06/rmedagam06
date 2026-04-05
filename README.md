@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronika Medagam</h1>
-<h3 align="center">A Georgia Tech Computer Science student largely interested in building production-ready AI apps by training my own models. Currently, I'm learning how to integrate vector databases (Pinecone/Milvus) with Python-based APIs."
+<h3 align="center">A Georgia Tech Computer Science student largely interested in building production-ready AI apps by training my own models. Currently, I'm learning how to integrate vector databases (Pinecone/Milvus) with Python-based APIs.
 
-- 🔭 I’m currently working on ** traning my own AI legal document simplifier tool - which is already outperforming ChatGPT-4 using benchmarks LegalBench and LexGLUE.**
+- 🔭 I’m currently working on training my own AI legal document simplifier tool - which is already outperforming ChatGPT-4 using benchmarks LegalBench and LexGLUE."
 
 
 <h3 align="left">Connect with me:</h3>
