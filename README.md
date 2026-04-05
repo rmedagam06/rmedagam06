@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ronika Medagam</h1>
-<h3 align="center">A Computer Science student largely interested in training my own AI models!</h3>
+<h3 align="center">A Georgia Tech Computer Science student largely interested in building production-ready AI apps by training my own models. Currently, I'm learning how to integrate vector databases (Pinecone/Milvus) with Python-based APIs."
 
-- 🔭 I’m currently working on **legal document simplifier tool.**
+- 🔭 I’m currently working on ** traning my own AI legal document simplifier tool - which is already outperforming ChatGPT-4 using benchmarks LegalBench and LexGLUE.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
