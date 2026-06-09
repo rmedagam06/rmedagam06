@@ -12,8 +12,6 @@ Currently doing applied ML research in the [Graham Lab @ GT](https://example.com
 
 **[Degree Planner](https://github.com/rmedagam06/course-planner)** — A prerequisite-aware course scheduler built with Next.js + TypeScript. Kahn's topological sort + wave-based greedy packing to generate minimum-semester graduation plans, with AND/OR prerequisite parsing, elective-pool optimization, and critical-path analysis.
 
-**Malware Analysis Sandbox** — An isolated multi-VM environment (REMnux + FlareVM) for safely executing live PE binaries, with an automated pipeline capturing memory dumps, registry changes, and network beacons, and a stix2-based parser generating STIX/TAXII threat-intel reports.
-
 ## 🌱 Currently
 
 - Building a legal document simplifier and evaluating it against LegalBench and LexGLUE
