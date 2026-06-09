@@ -25,4 +25,4 @@ Currently doing applied ML research in the [Graham Lab @ GT](https://example.com
 
 ## 📫 Reach me
 
-[LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [Personal site](https://your-site.com) · ronika05m@gmail.com
+[LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · ronika05m@gmail.com
