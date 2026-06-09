@@ -1,12 +1,28 @@
-<h1 align="center">Hi 👋, I'm Ronika Medagam</h1>
-<h3 align="center">Georgia Tech CS student largely interested in the intersection between cybersecurity and MLops: getting slightly better at training my own AI models!</h3>
+# Hi, I'm Ronika 👋
 
-- 🔭 I’m currently working on **creating a legal document simplifier tool that outperforms ChatGPT-4 in benchmarks LegalBench and LexGLUE.**
+CS student at Georgia Tech (AI + Cybersecurity/Privacy threads, BME minor) interested in the intersection of **machine learning systems and security** — training models from scratch, squeezing them onto constrained hardware, and breaking things safely in sandboxes.
 
-- 🌱 I’m currently learning **Hugging Face Transformers, JAX / Flax, Pytorch/Tensorflow, RAGAS for RAG eval**
+Currently doing applied ML research in the [Graham Lab @ GT](https://example.com), forecasting *Legionella pneumophila* concentrations in building water networks with XGBoost. Previously co-authored a [peer-reviewed bibliometric study](https://pubmed.ncbi.nlm.nih.gov/40991854/) in the *Journal of Strength & Conditioning Research*.
 
-<p align="left">
-</p>
+## 🔭 What I've built
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**[Wallpaper Diffusion](https://github.com/rmedagam06/wallpaper-diffusion)** — A text-to-image latent diffusion model implemented from scratch in PyTorch: ~25M-parameter U-Net with cross-attention to frozen CLIP embeddings, DDIM sampling with classifier-free guidance (1,000 → 50 inference steps), and rank-16 LoRA fine-tuning. Trained 200K steps on a 4GB GPU using fp16 + gradient checkpointing.
+
+**[LLM Benchmark](https://github.com/rmedagam06/llm-benchmark)** — An automated optimization pipeline for open-source LLMs: MMLU benchmarking, QLoRA fine-tuning sweeps, GGUF quantization comparison (Q4/Q5/Q8), and a composite scoring function that trades accuracy against TTFT and VRAM to pick the best deployment config. FastAPI backend with SSE streaming.
+
+**[Degree Planner](https://github.com/rmedagam06/course-planner)** — A prerequisite-aware course scheduler built with Next.js + TypeScript. Kahn's topological sort + wave-based greedy packing to generate minimum-semester graduation plans, with AND/OR prerequisite parsing, elective-pool optimization, and critical-path analysis.
+
+**Malware Analysis Sandbox** — An isolated multi-VM environment (REMnux + FlareVM) for safely executing live PE binaries, with an automated pipeline capturing memory dumps, registry changes, and network beacons, and a stix2-based parser generating STIX/TAXII threat-intel reports.
+
+## 🌱 Currently
+
+- Building a legal document simplifier and evaluating it against LegalBench and LexGLUE
+- Learning: JAX/Flax, RAGAS for RAG evaluation
+
+## 🛠 Tools I actually use
+
+`Python` `PyTorch` `Hugging Face Transformers` `PEFT/TRL` `llama.cpp` `scikit-learn` `XGBoost` `TypeScript` `Next.js` `React` `FastAPI` `SQLite` `Docker` `AWS`
+
+## 📫 Reach me
+
+[LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [Personal site](https://your-site.com) · ronika05m@gmail.com
