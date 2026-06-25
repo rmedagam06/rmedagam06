@@ -2,7 +2,7 @@
 
 CS student at Georgia Tech (AI + Cybersecurity/Privacy threads, BME minor) interested in the intersection of **machine learning systems and security** — training models from scratch, squeezing them onto constrained hardware, and breaking things safely in sandboxes.
 
-Currently doing applied ML research in the [Graham Lab @ GT](https://example.com), forecasting *Legionella pneumophila* concentrations in building water networks with XGBoost. Previously co-authored a [peer-reviewed bibliometric study](https://pubmed.ncbi.nlm.nih.gov/40991854/) in the *Journal of Strength & Conditioning Research*.
+Currently doing applied ML research in the [Graham Lab @ GT], forecasting *Legionella pneumophila* concentrations in building water networks with XGBoost. Previously co-authored a [peer-reviewed bibliometric study](https://pubmed.ncbi.nlm.nih.gov/40991854/) in the *Journal of Strength & Conditioning Research*.
 
 ## 🔭 What I've built
 
