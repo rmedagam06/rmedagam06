@@ -152,13 +152,8 @@ What I've built there so far:
 ## 📊 By the numbers
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rmedagam06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rmedagam06&theme=tokyonight&hide_border=true" alt="streak"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmedagam06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rmedagam06&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies"/>
 
 </div>
 
